@@ -11,6 +11,7 @@ dash-core-components = "*"
 plotly = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
